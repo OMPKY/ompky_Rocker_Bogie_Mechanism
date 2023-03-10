@@ -1,0 +1,15 @@
+Rocker Bogie Mechanism component Required
+
+Arduino UNO
+HC-05 Bluetooth Module		
+Ultrasonic Sensor - HC-SR04 (Generic)	
+Rechargeable Battery, Lithium Ion	
+Dual H-Bridge motor drivers L298	
+SparkFun Dual H-Bridge motor drivers L298
+Jumper Wires	
+5 mm LED
+12volt gear motor
+
+
+Android Bluetooth RC Controller app
+https://play.google.com/store/apps/details?id=braulio.calle.bluetoothRCcontroller&hl=en_IN&pli=1
